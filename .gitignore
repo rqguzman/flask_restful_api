@@ -55,6 +55,9 @@ docs/_build/
 
 *.DS_Store
 
+# dotenv
+.env
+
 #Visual Studio Code
 settings.json
 
